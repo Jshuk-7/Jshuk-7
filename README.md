@@ -1,16 +1,26 @@
-### Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jshuk-7&theme=radical&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshuk-7&theme=radical&hide=ShaderLab&langs_count=8&layout=compact" />
+</a>
 
-<!--
-**Jshuk-7/Jshuk-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jshuk-7&repo=Vortex&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jshuk-7&repo=Vortex-Web&theme=radical" />
+</a>
+
+&nbsp;
 
 - 🔭 I’m currently working on ...
+    - A 3D Game Engine
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+    - How To Architect a Game Engine
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+    - Game Engine Programming
 - ⚡ Fun fact: ...
--->
+    - Did you know I have my own Game Engine?
